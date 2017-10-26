@@ -26,7 +26,7 @@ class: middle
 
 # hstr
 
-![History Suggest Box](http://mindforger.com/projects/images/hh-animated-01.gif)
+![History Suggest Box](hh-animated-01.gif)
 
 ---
 
@@ -47,8 +47,8 @@ bind -x '"\C-r": "HISTFILE=~/.bash_history.global hh"'
 
 class: middle
 
-# Blog post: http://bit.ly/better-history
-# hstr: https://github.com/dvorka/hstr
-# Me: @jakemcc, https://jakemccrary.com
+# Blog post: bit.ly/better-history
+# hstr: github.com/dvorka/hstr
+# Me: @jakemcc, jakemccrary.com
 
 
